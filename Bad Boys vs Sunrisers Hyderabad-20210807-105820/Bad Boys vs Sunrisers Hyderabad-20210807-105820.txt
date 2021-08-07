@@ -1,0 +1,483 @@
+Bad Boys spins the coin 
+Sunrisers Hyderabad - Heads is the call. And it's Heads
+
+Sunrisers Hyderabad won the toss and choose to Bowl first !
+
+Bad Boys -  ['C Swift', 'L Modi', 'U Nazim', 'Parth K', 'Muller S', 'RUDI S', 'M Genius', 'K Biswas', 'F Rukanah', 'F Jaacob', 'Naman']
+Sunrisers Hyderabad -  ['A Samad', 'J Holder', 'R Khan', 'B Kumar', 'T Natarajan', 'S Sharma']
+
+%%%%%  First Innings  %%%%%
+
+Ball 01 :  T Natarajan to C Swift, SIX ! runs, this is a gigantic blow!
+Ball 02 :  T Natarajan to C Swift, one run, short of a length outside off, steered away down to third man
+Ball 03 :  T Natarajan to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 04 :  T Natarajan to L Modi, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 05 :  T Natarajan to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 06 :  T Natarajan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 07 :  T Natarajan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 08 :  T Natarajan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 09 :  T Natarajan to C Swift, one run, begins with a loopy overcook, drilled through the covers
+Ball 10 :  T Natarajan to L Modi, one run, short of a length outside off, steered away down to third man
+
+     END of 10 balls (16 runs)
+     Bad Boys     16/0
+     RR: 16.00
+
+     L Modi     (8)4 [0x4 1x6]
+     C Swift     (8)6 [0x4 1x6]
+     T Natarajan     10-4-16-0
+
+Ball 11 :  A Samad to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 12 :  A Samad to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 13 :  A Samad to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 14 :  A Samad to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 15 :  A Samad to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 16 :  A Samad to C Swift, one run, back of a length outside off, jabbed away through the covers
+Ball 17 :  A Samad to L Modi, two runs, The fielder dives and makes a half stop. Just two..
+Ball 18 :  A Samad to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 19 :  A Samad to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 20 :  A Samad to L Modi, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 20 balls (14 runs)
+     Bad Boys     30/0
+     RR: 15.00
+
+     C Swift     (9)7 [0x4 1x6]
+     L Modi     (21)13 [2x4 1x6]
+     A Samad     10-4-14-0
+
+Ball 21 :  R Khan to C Swift, one run, begins with a loopy overcook, drilled through the covers
+Ball 22 :  R Khan to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 23 :  R Khan to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 24 :  R Khan to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 25 :  R Khan to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 26 :  R Khan to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 27 :  R Khan to C Swift, two runs, The fielder dives and makes a half stop. Just two..
+Ball 28 :  R Khan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 29 :  R Khan to C Swift, one run, begins with a loopy overcook, drilled through the covers
+Ball 30 :  R Khan to L Modi, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 30 balls (11 runs)
+     Bad Boys     41/0
+     RR: 13.67
+
+     C Swift     (13)11 [0x4 1x6]
+     L Modi     (28)19 [3x4 1x6]
+     R Khan     10-4-11-0
+
+Ball 31 :  B Kumar to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 32 :  B Kumar to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 33 :  B Kumar to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 34 :  B Kumar to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 35 :  B Kumar to C Swift, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 36 :  B Kumar to C Swift, one run, short of a length outside off, steered away down to third man
+Ball 37 :  B Kumar to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 38 :  B Kumar to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 39 :  B Kumar to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 40 :  B Kumar to L Modi, one run, back of a length outside off, jabbed away through the covers
+
+     END of 40 balls (12 runs)
+     Bad Boys     53/0
+     RR: 13.25
+
+     L Modi     (33)23 [4x4 1x6]
+     C Swift     (20)17 [0x4 2x6]
+     B Kumar     10-6-12-0
+
+Ball 41 :  A Samad to L Modi, one run, back of a length outside off, jabbed away through the covers
+Ball 42 :  A Samad to C Swift, one run, short of a length outside off, steered away down to third man
+Ball 43 :  A Samad to L Modi, two runs, The fielder dives and makes a half stop. Just two..
+Ball 44 :  A Samad to L Modi, three runs, a fine tickle on the glance 
+Ball 45 :  A Samad to C Swift, two runs, The fielder dives and makes a half stop. Just two..
+Ball 46 :  A Samad to C Swift, FOUR runs, short and pleading to be bashed!
+Ball 47 :  A Samad to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 48 :  A Samad to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 49 :  A Samad to C Swift, three runs, a fine tickle on the glance 
+Ball 50 :  A Samad to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 50 balls (16 runs)
+     Bad Boys     69/0
+     RR: 13.80
+
+     C Swift     (30)23 [1x4 2x6]
+     L Modi     (39)27 [4x4 1x6]
+     A Samad     20-7-30-0
+
+Ball 51 :  J Holder to C Swift, FOUR runs, short and pleading to be bashed!
+Ball 52 :  J Holder to C Swift, one run, begins with a loopy overcook, drilled through the covers
+Ball 53 :  J Holder to L Modi, one run, begins with a loopy overcook, drilled through the covers
+Ball 54 :  J Holder to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 55 :  J Holder to C Swift, one run, short of a length outside off, steered away down to third man
+Ball 56 :  J Holder to L Modi, SIX ! runs, this is a gigantic blow!
+Ball 57 :  J Holder to L Modi, one run, begins with a loopy overcook, drilled through the covers
+Ball 58 :  J Holder to C Swift, one run, short of a length outside off, steered away down to third man
+Ball 59 :  J Holder to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 60 :  J Holder to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 60 balls (16 runs)
+     Bad Boys     85/0
+     RR: 14.17
+
+     L Modi     (48)31 [4x4 2x6]
+     C Swift     (37)29 [2x4 2x6]
+     J Holder     10-2-16-0
+
+Ball 61 :  S Sharma to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 62 :  S Sharma to L Modi, three runs, a fine tickle on the glance 
+Ball 63 :  S Sharma to C Swift, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 64 :  S Sharma to C Swift, FOUR runs, short and pleading to be bashed!
+Ball 65 :  S Sharma to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 66 :  S Sharma to C Swift, one run, back of a length outside off, jabbed away through the covers
+Ball 67 :  S Sharma to L Modi, SIX ! runs, this is a gigantic blow!
+Ball 68 :  S Sharma to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 69 :  S Sharma to L Modi, SIX ! runs, this is a gigantic blow!
+Ball 70 :  S Sharma to L Modi, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 70 balls (30 runs)
+     Bad Boys     115/0
+     RR: 16.43
+
+     C Swift     (48)33 [3x4 3x6]
+     L Modi     (67)37 [5x4 4x6]
+     S Sharma     10-3-30-0
+
+Ball 71 :  R Khan to C Swift, SIX ! runs, this is a gigantic blow!
+Ball 72 :  R Khan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 73 :  R Khan to C Swift, one run, begins with a loopy overcook, drilled through the covers
+Ball 74 :  R Khan to L Modi, three runs, a fine tickle on the glance 
+Ball 75 :  R Khan to C Swift, one run, back of a length outside off, jabbed away through the covers
+Ball 76 :  R Khan to L Modi, three runs, a fine tickle on the glance 
+Ball 77 :  R Khan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 78 :  R Khan to C Swift, three runs, a fine tickle on the glance 
+Ball 79 :  R Khan to L Modi, one run, begins with a loopy overcook, drilled through the covers
+Ball 80 :  R Khan to C Swift, FOUR runs, short and pleading to be bashed!
+
+     END of 80 balls (22 runs)
+     Bad Boys     137/0
+     RR: 17.12
+
+     L Modi     (74)40 [5x4 4x6]
+     C Swift     (63)40 [4x4 4x6]
+     R Khan     20-6-33-0
+
+Ball 81 :  T Natarajan to L Modi, one run, begins with a loopy overcook, drilled through the covers
+Ball 82 :  T Natarajan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 83 :  T Natarajan to C Swift, FOUR runs, short and pleading to be bashed!
+Ball 84 :  T Natarajan to C Swift, SIX ! runs, this is a gigantic blow!
+Ball 85 :  T Natarajan to C Swift, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 86 :  T Natarajan to C Swift, one run, back of a length outside off, jabbed away through the covers
+Ball 87 :  T Natarajan to L Modi, three runs, a fine tickle on the glance 
+Ball 88 :  T Natarajan to C Swift, OUT, This is really unlucky for the batsmen.
+
+     b. T Natarajan     C Swift(74)46 [5x4 5x6]
+
+Ball 89 :  T Natarajan to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 90 :  T Natarajan to L Modi, one run, short of a length outside off, steered away down to third man
+
+     END of 90 balls (17 runs)
+     Bad Boys     154/1
+     RR: 17.11
+
+     L Modi     (79)43 [5x4 4x6]
+     U Nazim     (1)1 [0x4 0x6]
+     T Natarajan     20-7-33-1
+
+Ball 91 :  B Kumar to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 92 :  B Kumar to L Modi, one run, back of a length outside off, jabbed away through the covers
+Ball 93 :  B Kumar to U Nazim, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 94 :  B Kumar to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 95 :  B Kumar to L Modi, one run, back of a length outside off, jabbed away through the covers
+Ball 96 :  B Kumar to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 97 :  B Kumar to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 98 :  B Kumar to U Nazim, OUT, This is really unlucky for the batsmen.
+
+     b. B Kumar     U Nazim(3)5 [0x4 0x6]
+
+Ball 99 :  B Kumar to Parth K, one run, begins with a loopy overcook, drilled through the covers
+Ball 100 :  B Kumar to L Modi, three runs, a fine tickle on the glance 
+
+     END of 100 balls (13 runs)
+     Bad Boys     167/2
+     RR: 16.70
+
+
+     End of innings (Balls 100)
+     Bad Boys     167/2  (RR: 16.70)
+     L Modi     (89)48 [6x4 4x6]
+     Parth K     (1)1 [0x4 0x6]
+     B Kumar     20-8-25-1
+
+
+1st Innings Scoreboard
+
+Batsman    Bowler         Runs    Balls    4s    6s    SR
+---------  -----------  ------  -------  ----  ----  ----
+C Swift    T Natarajan      74       46     5     5   160
+U Nazim    B Kumar           3        5     0     0    60
+L Modi     Not Out          89       48     6     4   185
+Parth K    Not Out           1        1     0     0   100
+
+Bowler         Balls    Dots    Runs    Wickets    Economy
+-----------  -------  ------  ------  ---------  ---------
+A Samad           20       7      30          0          1
+J Holder          10       2      16          0          1
+R Khan            20       6      33          0          1
+B Kumar           20       8      25          1          1
+T Natarajan       20       7      33          1          1
+S Sharma          10       3      30          0          3
+
+Sunrisers Hyderabad need 168 runs in 100 balls at 1.68 run/s per ball.
+
+Sunrisers Hyderabad -  ['D Warner', 'J Bairstow', 'M Pandey', 'K Williamson', 'K Jadhav', 'A Samad', 'J Holder', 'R Khan', 'B Kumar', 'T Natarajan', 'S Sharma']
+Bad Boys -  ['Muller S', 'RUDI S', 'K Biswas', 'F Rukanah', 'F Jaacob', 'Naman']
+
+%%%%%  Second Innings  %%%%%
+
+Ball 01 :  Naman to D Warner, FOUR runs, short and pleading to be bashed!
+Ball 02 :  Naman to D Warner, one run, short of a length outside off, steered away down to third man
+Ball 03 :  Naman to J Bairstow, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 04 :  Naman to J Bairstow, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 05 :  Naman to J Bairstow, two runs, The fielder dives and makes a half stop. Just two..
+Ball 06 :  Naman to J Bairstow, FOUR runs, short and pleading to be bashed!
+Ball 07 :  Naman to J Bairstow, one run, short of a length outside off, steered away down to third man
+Ball 08 :  Naman to D Warner, Stumped, This is really unlucky for the batsmen.
+
+     b. Naman     D Warner(5)3 [1x4 0x6]
+
+Ball 09 :  Naman to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 10 :  Naman to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 10 balls (12 runs)
+     Sunrisers Hyderabad     12/1
+     RR: 12.00
+
+     J Bairstow     (7)5 [1x4 0x6]
+     M Pandey     (0)2 [0x4 0x6]
+     Naman     10-5-12-1
+
+Ball 11 :  F Jaacob to J Bairstow, Stumped, This is really unlucky for the batsmen.
+
+     b. F Jaacob     J Bairstow(7)6 [1x4 0x6]
+
+Ball 12 :  F Jaacob to K Williamson, one run, back of a length outside off, jabbed away through the covers
+Ball 13 :  F Jaacob to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 14 :  F Jaacob to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 15 :  F Jaacob to K Williamson,Wide, Thats a wide ball from F Jaacob
+Ball 15 :  F Jaacob to K Williamson, FOUR runs, short and pleading to be bashed!
+Ball 16 :  F Jaacob to K Williamson, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 17 :  F Jaacob to K Williamson,Wide, Thats a wide ball from F Jaacob
+Ball 17 :  F Jaacob to K Williamson, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 18 :  F Jaacob to K Williamson,Wide, Thats a wide ball from F Jaacob
+Ball 18 :  F Jaacob to K Williamson, one run, begins with a loopy overcook, drilled through the covers
+Ball 19 :  F Jaacob to M Pandey,Wide, Thats a wide ball from F Jaacob
+Ball 19 :  F Jaacob to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 20 :  F Jaacob to M Pandey, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+
+     END of 20 balls (25 runs)
+     Sunrisers Hyderabad     37/2
+     RR: 18.50
+
+     K Williamson     (12)5 [1x4 1x6]
+     M Pandey     (9)6 [0x4 1x6]
+     F Jaacob     10-3-25-1
+
+Ball 21 :  Muller S to K Williamson, two runs, The fielder dives and makes a half stop. Just two..
+Ball 22 :  Muller S to K Williamson, Stumped, This is really unlucky for the batsmen.
+
+     b. Muller S     K Williamson(14)7 [1x4 1x6]
+
+Ball 23 :  Muller S to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 24 :  Muller S to K Jadhav, one run, begins with a loopy overcook, drilled through the covers
+Ball 25 :  Muller S to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 26 :  Muller S to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 27 :  Muller S to M Pandey, SIX ! runs, this is a gigantic blow!
+Ball 28 :  Muller S to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 29 :  Muller S to M Pandey, FOUR runs, short and pleading to be bashed!
+Ball 30 :  Muller S to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 30 balls (15 runs)
+     Sunrisers Hyderabad     52/3
+     RR: 17.33
+
+     K Jadhav     (1)2 [0x4 0x6]
+     M Pandey     (21)12 [1x4 2x6]
+     Muller S     10-5-15-1
+
+Ball 31 :  K Biswas to K Jadhav, one run, begins with a loopy overcook, drilled through the covers
+Ball 32 :  K Biswas to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 33 :  K Biswas to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 34 :  K Biswas to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 35 :  K Biswas to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 36 :  K Biswas to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 37 :  K Biswas to M Pandey,Wide, Thats a wide ball from K Biswas
+Ball 37 :  K Biswas to M Pandey, one run, back of a length outside off, jabbed away through the covers
+Ball 38 :  K Biswas to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 39 :  K Biswas to K Jadhav, FOUR runs, short and pleading to be bashed!
+Ball 40 :  K Biswas to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 40 balls (9 runs)
+     Sunrisers Hyderabad     61/3
+     RR: 15.25
+
+     M Pandey     (24)18 [1x4 2x6]
+     K Jadhav     (6)6 [1x4 0x6]
+     K Biswas     10-6-9-0
+
+Ball 41 :  Naman to M Pandey, three runs, a fine tickle on the glance 
+Ball 42 :  Naman to K Jadhav, one run, begins with a loopy overcook, drilled through the covers
+Ball 43 :  Naman to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 44 :  Naman to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 45 :  Naman to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 46 :  Naman to K Jadhav,Wide, Thats a wide ball from Naman
+Ball 46 :  Naman to K Jadhav, SIX ! runs, this is a gigantic blow!
+Ball 47 :  Naman to K Jadhav, FOUR runs, short and pleading to be bashed!
+Ball 48 :  Naman to K Jadhav, FOUR runs, short and pleading to be bashed!
+Ball 49 :  Naman to K Jadhav, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 50 :  Naman to K Jadhav,Wide, Thats a wide ball from Naman
+Ball 50 :  Naman to K Jadhav, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 50 balls (27 runs)
+     Sunrisers Hyderabad     88/3
+     RR: 17.60
+
+     M Pandey     (28)20 [1x4 2x6]
+     K Jadhav     (27)14 [3x4 2x6]
+     Naman     20-8-39-1
+
+Ball 51 :  F Rukanah to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 52 :  F Rukanah to K Jadhav, one run, back of a length outside off, jabbed away through the covers
+Ball 53 :  F Rukanah to M Pandey, one run, back of a length outside off, jabbed away through the covers
+Ball 54 :  F Rukanah to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 55 :  F Rukanah to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 56 :  F Rukanah to K Jadhav, one run, short of a length outside off, steered away down to third man
+Ball 57 :  F Rukanah to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 58 :  F Rukanah to M Pandey, one run, back of a length outside off, jabbed away through the covers
+Ball 59 :  F Rukanah to K Jadhav,Wide, Thats a wide ball from F Rukanah
+Ball 59 :  F Rukanah to K Jadhav, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 60 :  F Rukanah to K Jadhav,Wide, Thats a wide ball from F Rukanah
+Ball 60 :  F Rukanah to K Jadhav, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 60 balls (7 runs)
+     Sunrisers Hyderabad     95/3
+     RR: 15.83
+
+     M Pandey     (31)24 [1x4 2x6]
+     K Jadhav     (29)20 [3x4 2x6]
+     F Rukanah     10-5-7-0
+
+Ball 61 :  Muller S to M Pandey, one run, back of a length outside off, jabbed away through the covers
+Ball 62 :  Muller S to K Jadhav, one run, back of a length outside off, jabbed away through the covers
+Ball 63 :  Muller S to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 64 :  Muller S to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 65 :  Muller S to K Jadhav, two runs, The fielder dives and makes a half stop. Just two..
+Ball 66 :  Muller S to K Jadhav, two runs, The fielder dives and makes a half stop. Just two..
+Ball 67 :  Muller S to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 68 :  Muller S to K Jadhav, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 69 :  Muller S to K Jadhav, one run, begins with a loopy overcook, drilled through the covers
+Ball 70 :  Muller S to M Pandey, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 70 balls (8 runs)
+     Sunrisers Hyderabad     103/3
+     RR: 14.71
+
+     K Jadhav     (35)26 [3x4 2x6]
+     M Pandey     (33)28 [1x4 2x6]
+     Muller S     20-9-23-1
+
+Ball 71 :  RUDI S to K Jadhav, one run, short of a length outside off, steered away down to third man
+Ball 72 :  RUDI S to M Pandey, Caught, This is really unlucky for the batsmen.
+
+     b. RUDI S     M Pandey(33)29 [1x4 2x6]
+
+Ball 73 :  RUDI S to A Samad, one run, begins with a loopy overcook, drilled through the covers
+Ball 74 :  RUDI S to K Jadhav, two runs, The fielder dives and makes a half stop. Just two..
+Ball 75 :  RUDI S to K Jadhav, one run, back of a length outside off, jabbed away through the covers
+Ball 76 :  RUDI S to A Samad, one run, begins with a loopy overcook, drilled through the covers
+Ball 77 :  RUDI S to K Jadhav, Stumped, This is really unlucky for the batsmen.
+
+     b. RUDI S     K Jadhav(39)30 [3x4 2x6]
+
+Ball 78 :  RUDI S to J Holder, one run, begins with a loopy overcook, drilled through the covers
+Ball 79 :  RUDI S to A Samad, SIX ! runs, this is a gigantic blow!
+Ball 80 :  RUDI S to A Samad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 80 balls (13 runs)
+     Sunrisers Hyderabad     116/5
+     RR: 14.50
+
+     J Holder     (1)1 [0x4 0x6]
+     A Samad     (8)4 [0x4 1x6]
+     RUDI S     10-3-13-2
+
+Ball 81 :  F Rukanah to J Holder, Bowled, This is really unlucky for the batsmen.
+
+     b. F Rukanah     J Holder(1)2 [0x4 0x6]
+
+Ball 82 :  F Rukanah to R Khan, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 83 :  F Rukanah to R Khan,Wide, Thats a wide ball from F Rukanah
+Ball 83 :  F Rukanah to R Khan, two runs, The fielder dives and makes a half stop. Just two..
+Ball 84 :  F Rukanah to R Khan, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 85 :  F Rukanah to R Khan, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 86 :  F Rukanah to R Khan, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 87 :  F Rukanah to R Khan, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 88 :  F Rukanah to R Khan, one run, short of a length outside off, steered away down to third man
+Ball 89 :  F Rukanah to A Samad, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 90 :  F Rukanah to A Samad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 90 balls (22 runs)
+     Sunrisers Hyderabad     138/6
+     RR: 15.33
+
+     R Khan     (15)7 [0x4 2x6]
+     A Samad     (14)6 [0x4 2x6]
+     F Rukanah     20-10-29-1
+
+Ball 91 :  F Jaacob to R Khan,Wide, Thats a wide ball from F Jaacob
+Ball 91 :  F Jaacob to R Khan, two runs, The fielder dives and makes a half stop. Just two..
+Ball 92 :  F Jaacob to R Khan, one run, short of a length outside off, steered away down to third man
+Ball 93 :  F Jaacob to A Samad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 94 :  F Jaacob to A Samad, SIX ! runs, this is a gigantic blow!
+Ball 95 :  F Jaacob to A Samad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 96 :  F Jaacob to A Samad, FOUR runs, short and pleading to be bashed!
+Ball 97 :  F Jaacob to A Samad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 98 :  F Jaacob to A Samad, one run, back of a length outside off, jabbed away through the covers
+Ball 99 :  F Jaacob to R Khan, two runs, The fielder dives and makes a half stop. Just two..
+Ball 100 :  F Jaacob to R Khan, Bowled, This is really unlucky for the batsmen.
+
+     END of 100 balls (17 runs)
+     Sunrisers Hyderabad     155/7
+     RR: 15.50
+
+
+     End of innings (Balls 100)
+     Sunrisers Hyderabad155/7  (RR: 15.50)
+
+     b. F Jaacob     R Khan(20)10 [0x4 2x6]
+     A Samad     (25)12 [1x4 3x6]
+     F Jaacob     20-7-42-2
+
+
+Bad Boys win by 13 runs.
+
+2nd Innings Scoreboard
+Batsman       Bowler       Runs    Balls    4s    6s    SR
+------------  ---------  ------  -------  ----  ----  ----
+D Warner      Naman           5        3     1     0   166
+J Bairstow    F Jaacob        7        6     1     0   116
+K Williamson  Muller S       14        7     1     1   200
+M Pandey      RUDI S         33       29     1     2   113
+K Jadhav      RUDI S         39       30     3     2   130
+J Holder      F Rukanah       1        2     0     0    50
+R Khan        Not Out        20       10     0     2   200
+A Samad       Not Out        25       12     1     3   208
+R Khan        Not Out        20       10     0     2   200
+A Samad       Not Out        25       12     1     3   208
+
+Bowler       Balls    Dots    Runs    Wickets    Economy
+---------  -------  ------  ------  ---------  ---------
+Muller S        20       9      23          1          1
+RUDI S          10       3      13          2          1
+K Biswas        10       6       9          0          0
+F Rukanah       20      10      29          1          1
+F Jaacob        20       7      42          2          2
+Naman           20       8      39          1          1

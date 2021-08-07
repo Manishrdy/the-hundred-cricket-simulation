@@ -1,0 +1,12 @@
+﻿player,role,type,0s,1s,2s,3s,4s,6s,out,wide,total
+V Kohli,Batsman,right,15,20,10,10,15,15,7,5,88
+D Padikkal,Batsman,right,20,20,10,2,10,7,7,5,72
+S Ahmed,Batsman,right,15,20,10,2,10,7,5,5,67
+G Maxwell,Batsman,right,20,20,10,2,10,7,5,5,74
+AB DeVillers,Keeper,right,15,20,20,2,10,7,5,5,79
+W Sundar,Bowler,spin,25,20,7,1,7,15,4,5,80
+D Christian,Bowler,medium,15,25,10,1,10,7,10,5,78
+K Jamieson,Bowler,fasr,15,25,10,1,10,7,10,5,78
+H Patel,Bowler,medium,30,25,10,1,10,7,10,5,93
+MD Siraj,Bowler,fast,30,25,10,1,5,3,10,5,89
+Y Chahal,Bowler,spin,30,25,10,1,5,3,10,5,89

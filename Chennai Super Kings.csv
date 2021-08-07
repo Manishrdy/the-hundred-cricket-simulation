@@ -1,0 +1,12 @@
+﻿player,role,type,0s,1s,2s,3s,4s,6s,out,wide,total
+F Duplesis,Batsman,right,15,20,5,2,1,5,7,0.5,75
+R Gaikwad,Batsman,right,20,20,5,2,15,5,7,5,77
+S Raina,Batsman,left,15,20,5,2,10,5,7,5,67
+M Ali,Bowler,spin,20,20,10,2,10,7,5,5,74
+A Rayudu,Batsman,right,15,20,10,2,10,7,5,5,69
+MS Dhoni,Keeper,right,20,20,20,5,15,15,4,5,100
+S Curran,Bowler,medium,15,25,10,1,10,7,10,5,78
+D Bravo,Bowler,medium,15,25,10,1,10,7,10,5,78
+R Jadeja,Bowler,spin,30,25,10,1,10,7,10,5,93
+D Chahar,Bowler,fast,30,25,10,1,5,3,10,5,89
+S Thakur,Bowler,fast,30,25,10,1,5,3,10,5,89

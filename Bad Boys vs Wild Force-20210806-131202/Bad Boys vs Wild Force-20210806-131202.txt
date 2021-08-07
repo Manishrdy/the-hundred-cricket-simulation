@@ -1,0 +1,458 @@
+Bad Boys spins the coin 
+Wild Force - Heads is the call. And it's Heads
+
+Wild Force won the toss and choose to Bat first !
+
+Wild Force -  ['I Gunda', 'TSP', 'Kushal C', 'Markkkkk', 'M Ali', 'AK', 'A Rafay', 'X Factor', 'M Ratched', 'Reddy', 'Dale']
+Bad Boys -  ['Muller S', 'RUDI S', 'K Biswas', 'F Rukanah', 'F Jaacob', 'Naman']
+
+%%%%%  First Innings  %%%%%
+
+Ball 01 :  K Biswas to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 02 :  K Biswas to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 03 :  K Biswas to I Gunda, one run, begins with a loopy overcook, drilled through the covers
+Ball 04 :  K Biswas to TSP, one run, short of a length outside off, steered away down to third man
+Ball 05 :  K Biswas to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 06 :  K Biswas to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 07 :  K Biswas to I Gunda, three runs, a fine tickle on the glance 
+Ball 08 :  K Biswas to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 09 :  K Biswas to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 10 :  K Biswas to I Gunda, FOUR runs, short and pleading to be bashed!
+
+     END of 10 balls (14 runs)
+     Wild Force     14/0
+     RR: 14.00
+
+     TSP     (3)3 [0x4 0x6]
+     I Gunda     (11)7 [1x4 0x6]
+     K Biswas     10-2-14-0
+
+Ball 11 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 12 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 13 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 14 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 15 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 16 :  Muller S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 17 :  Muller S to TSP, one run, short of a length outside off, steered away down to third man
+Ball 18 :  Muller S to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 19 :  Muller S to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 20 :  Muller S to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 20 balls (1 runs)
+     Wild Force     15/0
+     RR: 7.50
+
+     TSP     (4)10 [0x4 0x6]
+     I Gunda     (11)10 [1x4 0x6]
+     Muller S     10-9-1-0
+
+Ball 21 :  RUDI S to TSP, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 22 :  RUDI S to TSP, one run, begins with a loopy overcook, drilled through the covers
+Ball 23 :  RUDI S to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 24 :  RUDI S to TSP, two runs, The fielder dives and makes a half stop. Just two..
+Ball 25 :  RUDI S to TSP, three runs, a fine tickle on the glance 
+Ball 26 :  RUDI S to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 27 :  RUDI S to TSP, FOUR runs, short and pleading to be bashed!
+Ball 28 :  RUDI S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 29 :  RUDI S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 30 :  RUDI S to TSP, one run, short of a length outside off, steered away down to third man
+
+     END of 30 balls (19 runs)
+     Wild Force     34/0
+     RR: 11.33
+
+     TSP     (21)18 [1x4 1x6]
+     I Gunda     (13)12 [1x4 0x6]
+     RUDI S     10-2-19-0
+
+Ball 31 :  Naman to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 32 :  Naman to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 33 :  Naman to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 34 :  Naman to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 35 :  Naman to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 36 :  Naman to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 37 :  Naman to TSP, FOUR runs, short and pleading to be bashed!
+Ball 38 :  Naman to TSP, three runs, a fine tickle on the glance 
+Ball 39 :  Naman to I Gunda, one run, begins with a loopy overcook, drilled through the covers
+Ball 40 :  Naman to TSP, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 40 balls (16 runs)
+     Wild Force     50/0
+     RR: 12.50
+
+     I Gunda     (19)17 [1x4 0x6]
+     TSP     (31)23 [2x4 1x6]
+     Naman     10-2-16-0
+
+Ball 41 :  Muller S to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 42 :  Muller S to I Gunda, FOUR runs, short and pleading to be bashed!
+Ball 43 :  Muller S to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 44 :  Muller S to I Gunda, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 45 :  Muller S to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 46 :  Muller S to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 47 :  Muller S to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 48 :  Muller S to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 49 :  Muller S to I Gunda, FOUR runs, short and pleading to be bashed!
+Ball 50 :  Muller S to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 50 balls (22 runs)
+     Wild Force     72/0
+     RR: 14.40
+
+     TSP     (32)24 [2x4 1x6]
+     I Gunda     (40)26 [3x4 1x6]
+     Muller S     20-11-23-0
+
+Ball 51 :  K Biswas to TSP, three runs, a fine tickle on the glance 
+Ball 52 :  K Biswas to I Gunda, FOUR runs, short and pleading to be bashed!
+Ball 53 :  K Biswas to I Gunda, SIX ! runs, this is a gigantic blow!
+Ball 54 :  K Biswas to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 55 :  K Biswas to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 56 :  K Biswas to I Gunda, two runs, The fielder dives and makes a half stop. Just two..
+Ball 57 :  K Biswas to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 58 :  K Biswas to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 59 :  K Biswas to TSP, FOUR runs, short and pleading to be bashed!
+Ball 60 :  K Biswas to TSP, one run, short of a length outside off, steered away down to third man
+
+     END of 60 balls (21 runs)
+     Wild Force     93/0
+     RR: 15.50
+
+     TSP     (40)27 [3x4 1x6]
+     I Gunda     (53)33 [4x4 2x6]
+     K Biswas     20-5-35-0
+
+Ball 61 :  RUDI S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 62 :  RUDI S to TSP, one run, begins with a loopy overcook, drilled through the covers
+Ball 63 :  RUDI S to I Gunda, one run, back of a length outside off, jabbed away through the covers
+Ball 64 :  RUDI S to TSP, one run, begins with a loopy overcook, drilled through the covers
+Ball 65 :  RUDI S to I Gunda, one run, short of a length outside off, steered away down to third man
+Ball 66 :  RUDI S to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 67 :  RUDI S to TSP, two runs, The fielder dives and makes a half stop. Just two..
+Ball 68 :  RUDI S to TSP, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 69 :  RUDI S to TSP, two runs, The fielder dives and makes a half stop. Just two..
+Ball 70 :  RUDI S to TSP, one run, short of a length outside off, steered away down to third man
+
+     END of 70 balls (15 runs)
+     Wild Force     108/0
+     RR: 15.43
+
+     TSP     (53)35 [3x4 2x6]
+     I Gunda     (55)35 [4x4 2x6]
+     RUDI S     20-4-34-0
+
+Ball 71 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 72 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 73 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 74 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 75 :  F Rukanah to TSP, FOUR runs, short and pleading to be bashed!
+Ball 76 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 77 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 78 :  F Rukanah to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 79 :  F Rukanah to TSP, one run, short of a length outside off, steered away down to third man
+Ball 80 :  F Rukanah to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 80 balls (5 runs)
+     Wild Force     113/0
+     RR: 14.12
+
+     TSP     (58)44 [4x4 2x6]
+     I Gunda     (55)36 [4x4 2x6]
+     F Rukanah     10-8-5-0
+
+Ball 81 :  Naman to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 82 :  Naman to TSP, one run, short of a length outside off, steered away down to third man
+Ball 83 :  Naman to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 84 :  Naman to I Gunda, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 85 :  Naman to I Gunda, one run, begins with a loopy overcook, drilled through the covers
+Ball 86 :  Naman to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 87 :  Naman to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 88 :  Naman to I Gunda, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 89 :  Naman to I Gunda, three runs, a fine tickle on the glance 
+Ball 90 :  Naman to TSP, one run, short of a length outside off, steered away down to third man
+
+     END of 90 balls (13 runs)
+     Wild Force     126/0
+     RR: 14.00
+
+     TSP     (61)48 [4x4 2x6]
+     I Gunda     (65)42 [4x4 3x6]
+     Naman     20-6-29-0
+
+Ball 91 :  F Jaacob to TSP, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 92 :  F Jaacob to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 93 :  F Jaacob to TSP, FOUR runs, short and pleading to be bashed!
+Ball 94 :  F Jaacob to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 95 :  F Jaacob to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 96 :  F Jaacob to TSP, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 97 :  F Jaacob to TSP, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 98 :  F Jaacob to TSP, one run, back of a length outside off, jabbed away through the covers
+Ball 99 :  F Jaacob to I Gunda, one run, short of a length outside off, steered away down to third man
+Ball 100 :  F Jaacob to TSP, one run, back of a length outside off, jabbed away through the covers
+
+     END of 100 balls (19 runs)
+     Wild Force     145/0
+     RR: 14.50
+
+
+     End of innings (Balls 100)
+     Wild Force     145/0  (RR: 14.50)
+     TSP     (79)57 [5x4 4x6]
+     I Gunda     (66)43 [4x4 3x6]
+     F Jaacob     10-4-19-0
+
+
+1st Innings Scoreboard
+
+Batsman    Bowler      Runs    Balls    4s    6s    SR
+---------  --------  ------  -------  ----  ----  ----
+TSP        Not Out       79       57     5     4   138
+I Gunda    Not Out       66       43     4     3   153
+
+Bowler       Balls    Dots    Runs    Wickets    Economy
+---------  -------  ------  ------  ---------  ---------
+Muller S        20      11      23          0          1
+RUDI S          20       4      34          0          1
+K Biswas        20       5      35          0          1
+F Rukanah       10       8       5          0          0
+F Jaacob        10       4      19          0          1
+Naman           20       6      29          0          1
+
+Bad Boys need 146 runs in 100 balls at 1.46 run/s per ball.
+
+Bad Boys -  ['C Swift', 'L Modi', 'U Nazim', 'Parth K', 'Muller S', 'RUDI S', 'M Genius', 'K Biswas', 'F Rukanah', 'F Jaacob', 'Naman']
+Wild Force -  ['AK', 'A Rafay', 'X Factor', 'M Ratched', 'Reddy', 'Dale']
+
+%%%%%  Second Innings  %%%%%
+
+Ball 01 :  X Factor to C Swift, one run, back of a length outside off, jabbed away through the covers
+Ball 02 :  X Factor to L Modi, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 03 :  X Factor to L Modi, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 04 :  X Factor to L Modi, three runs, a fine tickle on the glance 
+Ball 05 :  X Factor to C Swift, Bowled, This is really unlucky for the batsmen.
+
+     b. X Factor     C Swift(1)2 [0x4 0x6]
+
+Ball 06 :  X Factor to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 07 :  X Factor to U Nazim, one run, short of a length outside off, steered away down to third man
+Ball 08 :  X Factor to L Modi, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 09 :  X Factor to L Modi, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 10 :  X Factor to L Modi, SIX ! runs, this is a gigantic blow!
+
+     END of 10 balls (25 runs)
+     Bad Boys     25/1
+     RR: 25.00
+
+     U Nazim     (3)2 [0x4 0x6]
+     L Modi     (21)6 [0x4 3x6]
+     X Factor     10-3-25-1
+
+Ball 11 :  M Ratched to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 12 :  M Ratched to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 13 :  M Ratched to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 14 :  M Ratched to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 15 :  M Ratched to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 16 :  M Ratched to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 17 :  M Ratched to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 18 :  M Ratched to L Modi, three runs, a fine tickle on the glance 
+Ball 19 :  M Ratched to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 20 :  M Ratched to L Modi, FOUR runs, short and pleading to be bashed!
+
+     END of 20 balls (19 runs)
+     Bad Boys     44/1
+     RR: 22.00
+
+     U Nazim     (11)9 [0x4 0x6]
+     L Modi     (32)9 [2x4 3x6]
+     M Ratched     10-2-19-0
+
+Ball 21 :  Dale to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 22 :  Dale to L Modi, one run, begins with a loopy overcook, drilled through the covers
+Ball 23 :  Dale to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 24 :  Dale to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 25 :  Dale to U Nazim, one run, short of a length outside off, steered away down to third man
+Ball 26 :  Dale to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 27 :  Dale to L Modi,Wide, Thats a wide ball from Dale
+Ball 27 :  Dale to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 28 :  Dale to L Modi, one run, short of a length outside off, steered away down to third man
+Ball 29 :  Dale to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 30 :  Dale to U Nazim, one run, short of a length outside off, steered away down to third man
+
+     END of 30 balls (16 runs)
+     Bad Boys     60/1
+     RR: 20.00
+
+     U Nazim     (16)15 [0x4 0x6]
+     L Modi     (42)13 [4x4 3x6]
+     Dale     10-2-16-0
+
+Ball 31 :  AK to U Nazim, FOUR runs, short and pleading to be bashed!
+Ball 32 :  AK to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 33 :  AK to U Nazim, SIX ! runs, this is a gigantic blow!
+Ball 34 :  AK to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 35 :  AK to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 36 :  AK to L Modi, FOUR runs, short and pleading to be bashed!
+Ball 37 :  AK to L Modi, two runs, The fielder dives and makes a half stop. Just two..
+Ball 38 :  AK to L Modi, Bowled, This is really unlucky for the batsmen.
+
+     b. AK     L Modi(48)16 [5x4 3x6]
+
+Ball 39 :  AK to Parth K, FOUR runs, short and pleading to be bashed!
+Ball 40 :  AK to Parth K, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 40 balls (21 runs)
+     Bad Boys     81/2
+     RR: 20.25
+
+     U Nazim     (27)20 [1x4 1x6]
+     Parth K     (4)2 [1x4 0x6]
+     AK     10-4-21-1
+
+Ball 41 :  Dale to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 42 :  Dale to Parth K, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 43 :  Dale to Parth K, Stumped, This is really unlucky for the batsmen.
+
+     b. Dale     Parth K(4)4 [1x4 0x6]
+
+Ball 44 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 45 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 46 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 47 :  Dale to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 48 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 49 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 50 :  Dale to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 50 balls (3 runs)
+     Bad Boys     84/3
+     RR: 16.80
+
+     U Nazim     (28)21 [1x4 1x6]
+     Muller S     (2)7 [0x4 0x6]
+     Dale     20-10-19-1
+
+Ball 51 :  Reddy to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 52 :  Reddy to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 53 :  Reddy to Muller S, one run, back of a length outside off, jabbed away through the covers
+Ball 54 :  Reddy to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 55 :  Reddy to U Nazim, FOUR runs, short and pleading to be bashed!
+Ball 56 :  Reddy to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 57 :  Reddy to U Nazim, one run, short of a length outside off, steered away down to third man
+Ball 58 :  Reddy to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 59 :  Reddy to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 60 :  Reddy to Muller S, one run, short of a length outside off, steered away down to third man
+
+     END of 60 balls (12 runs)
+     Bad Boys     96/3
+     RR: 16.00
+
+     Muller S     (6)11 [0x4 0x6]
+     U Nazim     (36)27 [2x4 1x6]
+     Reddy     10-3-12-0
+
+Ball 61 :  AK to Muller S, one run, short of a length outside off, steered away down to third man
+Ball 62 :  AK to U Nazim, one run, back of a length outside off, jabbed away through the covers
+Ball 63 :  AK to Muller S, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 64 :  AK to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 65 :  AK to Muller S, one run, begins with a loopy overcook, drilled through the covers
+Ball 66 :  AK to U Nazim, two runs, The fielder dives and makes a half stop. Just two..
+Ball 67 :  AK to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 68 :  AK to Muller S, one run, short of a length outside off, steered away down to third man
+Ball 69 :  AK to U Nazim, one run, begins with a loopy overcook, drilled through the covers
+Ball 70 :  AK to Muller S, one run, begins with a loopy overcook, drilled through the covers
+
+     END of 70 balls (15 runs)
+     Bad Boys     111/3
+     RR: 15.86
+
+     Muller S     (16)17 [0x4 1x6]
+     U Nazim     (41)31 [2x4 1x6]
+     AK     20-5-36-1
+
+Ball 71 :  X Factor to Muller S, SIX ! runs, this is a gigantic blow!
+Ball 72 :  X Factor to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 73 :  X Factor to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 74 :  X Factor to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 75 :  X Factor to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 76 :  X Factor to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 77 :  X Factor to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 78 :  X Factor to Muller S, one run, begins with a loopy overcook, drilled through the covers
+Ball 79 :  X Factor to U Nazim, FOUR runs, short and pleading to be bashed!
+Ball 80 :  X Factor to U Nazim, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 80 balls (17 runs)
+     Bad Boys     128/3
+     RR: 16.00
+
+     Muller S     (29)25 [0x4 2x6]
+     U Nazim     (45)33 [3x4 1x6]
+     X Factor     20-7-42-1
+
+Ball 81 :  A Rafay to Muller S, one run, short of a length outside off, steered away down to third man
+Ball 82 :  A Rafay to U Nazim, Caught, This is really unlucky for the batsmen.
+
+     b. A Rafay     U Nazim(45)34 [3x4 1x6]
+
+Ball 83 :  A Rafay to RUDI S, two runs, The fielder dives and makes a half stop. Just two..
+Ball 84 :  A Rafay to RUDI S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 85 :  A Rafay to RUDI S, Stumped, This is really unlucky for the batsmen.
+
+     b. A Rafay     RUDI S(2)3 [0x4 0x6]
+
+Ball 86 :  A Rafay to M Genius, one run, back of a length outside off, jabbed away through the covers
+Ball 87 :  A Rafay to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 88 :  A Rafay to Muller S, one run, begins with a loopy overcook, drilled through the covers
+Ball 89 :  A Rafay to M Genius, one run, short of a length outside off, steered away down to third man
+Ball 90 :  A Rafay to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 90 balls (8 runs)
+     Bad Boys     136/5
+     RR: 15.11
+
+     M Genius     (2)2 [0x4 0x6]
+     Muller S     (33)29 [0x4 2x6]
+     A Rafay     10-4-8-2
+
+Ball 91 :  M Ratched to M Genius, Caught, This is really unlucky for the batsmen.
+
+     b. M Ratched     M Genius(2)3 [0x4 0x6]
+
+Ball 92 :  M Ratched to K Biswas, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 93 :  M Ratched to K Biswas, two runs, The fielder dives and makes a half stop. Just two..
+Ball 94 :  M Ratched to K Biswas, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 95 :  M Ratched to K Biswas, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 96 :  M Ratched to K Biswas, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 97 :  M Ratched to K Biswas, one run, begins with a loopy overcook, drilled through the covers
+Ball 98 :  M Ratched to Muller S, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 99 :  M Ratched to Muller S, two runs, The fielder dives and makes a half stop. Just two..
+
+     b. M Ratched     Muller S(33)30 [0x4 2x6]
+     K Biswas     (9)6 [0x4 1x6]
+     M Ratched     19-7-30-1
+
+
+
+     End of innings (Balls 99)
+     Bad Boys     147/6  (RR: 14.85)
+
+     Bad Boys win by 4 wickets.
+
+2nd Innings Scoreboard
+Batsman    Bowler       Runs    Balls    4s    6s    SR
+---------  ---------  ------  -------  ----  ----  ----
+C Swift    X Factor        1        2     0     0    50
+L Modi     AK             48       16     5     3   300
+Parth K    Dale            4        4     1     0   100
+U Nazim    A Rafay        45       34     3     1   132
+RUDI S     A Rafay         2        3     0     0    66
+M Genius   M Ratched       2        3     0     0    66
+Muller S   Not Out        33       30     0     2   110
+K Biswas   Not Out         9        6     0     1   150
+
+Bowler       Balls    Dots    Runs    Wickets    Economy
+---------  -------  ------  ------  ---------  ---------
+AK              20       5      36          1          1
+A Rafay         10       4       8          2          0
+X Factor        20       7      42          1          2
+M Ratched       19       7      30          1          1
+Reddy           10       3      12          0          1
+Dale            20      10      19          1          0

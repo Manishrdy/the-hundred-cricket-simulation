@@ -1,0 +1,488 @@
+Sunrisers Hyderabad spins the coin 
+Chennai Super Kings - Heads is the call. And it's Tails
+
+Sunrisers Hyderabad won the toss and choose to Bat first !
+
+Sunrisers Hyderabad -  ['D Warner', 'J Bairstow', 'M Pandey', 'K Williamson', 'K Jadhav', 'A Samad', 'J Holder', 'R Khan', 'B Kumar', 'T Natarajan', 'S Sharma']
+Chennai Super Kings -  ['M Ali', 'S Curran', 'D Bravo', 'R Jadeja', 'D Chahar', 'S Thakur']
+
+%%%%%  First Innings  %%%%%
+
+Ball 01 :  D Chahar to D Warner, one run, begins with a loopy overcook, drilled through the covers
+Ball 02 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 03 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 04 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 05 :  D Chahar to J Bairstow,Wide, Thats a wide ball from D Chahar
+Ball 05 :  D Chahar to J Bairstow, one run, begins with a loopy overcook, drilled through the covers
+Ball 06 :  D Chahar to D Warner, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 07 :  D Chahar to D Warner, three runs, a fine tickle on the glance 
+Ball 08 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 09 :  D Chahar to J Bairstow, two runs, The fielder dives and makes a half stop. Just two..
+Ball 10 :  D Chahar to J Bairstow, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 10 balls (10 runs)
+     Sunrisers Hyderabad     10/0
+     RR: 10.00
+
+     D Warner     (4)3 [0x4 0x6]
+     J Bairstow     (5)7 [0x4 0x6]
+     D Chahar     10-5-10-0
+
+Ball 11 :  M Ali to D Warner, FOUR runs, short and pleading to be bashed!
+Ball 12 :  M Ali to D Warner, one run, begins with a loopy overcook, drilled through the covers
+Ball 13 :  M Ali to J Bairstow, one run, short of a length outside off, steered away down to third man
+Ball 14 :  M Ali to D Warner,Wide, Thats a wide ball from M Ali
+Ball 14 :  M Ali to D Warner, FOUR runs, short and pleading to be bashed!
+Ball 15 :  M Ali to D Warner, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 16 :  M Ali to D Warner, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 17 :  M Ali to D Warner, FOUR runs, short and pleading to be bashed!
+Ball 18 :  M Ali to D Warner, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 19 :  M Ali to D Warner,Wide, Thats a wide ball from M Ali
+Ball 19 :  M Ali to D Warner, SIX ! runs, this is a gigantic blow!
+Ball 20 :  M Ali to D Warner, one run, short of a length outside off, steered away down to third man
+
+     END of 20 balls (29 runs)
+     Sunrisers Hyderabad     39/0
+     RR: 19.50
+
+     D Warner     (30)12 [3x4 2x6]
+     J Bairstow     (6)8 [0x4 0x6]
+     M Ali     10-2-29-0
+
+Ball 21 :  D Chahar to D Warner, one run, begins with a loopy overcook, drilled through the covers
+Ball 22 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 23 :  D Chahar to J Bairstow, FOUR runs, short and pleading to be bashed!
+Ball 24 :  D Chahar to J Bairstow, FOUR runs, short and pleading to be bashed!
+Ball 25 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 26 :  D Chahar to J Bairstow, one run, begins with a loopy overcook, drilled through the covers
+Ball 27 :  D Chahar to D Warner, one run, short of a length outside off, steered away down to third man
+Ball 28 :  D Chahar to J Bairstow, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 29 :  D Chahar to J Bairstow, OUT, This is really unlucky for the batsmen.
+
+     b. D Chahar     J Bairstow(15)15 [2x4 0x6]
+
+Ball 30 :  D Chahar to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 30 balls (13 runs)
+     Sunrisers Hyderabad     52/1
+     RR: 17.33
+
+     D Warner     (32)14 [3x4 2x6]
+     M Pandey     (2)1 [0x4 0x6]
+     D Chahar     20-9-23-1
+
+Ball 31 :  R Jadeja to D Warner, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 32 :  R Jadeja to D Warner, FOUR runs, short and pleading to be bashed!
+Ball 33 :  R Jadeja to D Warner, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 34 :  R Jadeja to D Warner, OUT, This is really unlucky for the batsmen.
+
+     b. R Jadeja     D Warner(36)18 [4x4 2x6]
+
+Ball 35 :  R Jadeja to K Williamson, OUT, This is really unlucky for the batsmen.
+
+     b. R Jadeja     K Williamson(0)1 [0x4 0x6]
+
+Ball 36 :  R Jadeja to K Jadhav, FOUR runs, short and pleading to be bashed!
+Ball 37 :  R Jadeja to K Jadhav, two runs, The fielder dives and makes a half stop. Just two..
+Ball 38 :  R Jadeja to K Jadhav, one run, short of a length outside off, steered away down to third man
+Ball 39 :  R Jadeja to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 40 :  R Jadeja to K Jadhav, three runs, a fine tickle on the glance 
+
+     END of 40 balls (15 runs)
+     Sunrisers Hyderabad     67/3
+     RR: 16.75
+
+     K Jadhav     (10)4 [1x4 0x6]
+     M Pandey     (3)2 [0x4 0x6]
+     R Jadeja     10-4-15-2
+
+Ball 41 :  M Ali to K Jadhav, FOUR runs, short and pleading to be bashed!
+Ball 42 :  M Ali to K Jadhav, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 43 :  M Ali to K Jadhav, two runs, The fielder dives and makes a half stop. Just two..
+Ball 44 :  M Ali to K Jadhav, OUT, This is really unlucky for the batsmen.
+
+     b. M Ali     K Jadhav(16)8 [2x4 0x6]
+
+Ball 45 :  M Ali to A Samad, three runs, a fine tickle on the glance 
+Ball 46 :  M Ali to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 47 :  M Ali to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 48 :  M Ali to M Pandey, FOUR runs, short and pleading to be bashed!
+Ball 49 :  M Ali to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 50 :  M Ali to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+
+     END of 50 balls (16 runs)
+     Sunrisers Hyderabad     83/4
+     RR: 16.60
+
+     M Pandey     (10)7 [1x4 0x6]
+     A Samad     (3)1 [0x4 0x6]
+     M Ali     20-6-45-1
+
+Ball 51 :  S Thakur to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 52 :  S Thakur to A Samad, one run, begins with a loopy overcook, drilled through the covers
+Ball 53 :  S Thakur to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 54 :  S Thakur to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 55 :  S Thakur to A Samad, one run, short of a length outside off, steered away down to third man
+Ball 56 :  S Thakur to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 57 :  S Thakur to A Samad, SIX ! runs, this is a gigantic blow!
+Ball 58 :  S Thakur to A Samad, one run, short of a length outside off, steered away down to third man
+Ball 59 :  S Thakur to M Pandey, one run, back of a length outside off, jabbed away through the covers
+Ball 60 :  S Thakur to A Samad, FOUR runs, short and pleading to be bashed!
+
+     END of 60 balls (19 runs)
+     Sunrisers Hyderabad     102/4
+     RR: 17.00
+
+     M Pandey     (16)12 [1x4 0x6]
+     A Samad     (16)6 [1x4 1x6]
+     S Thakur     10-0-19-0
+
+Ball 61 :  S Curran to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 62 :  S Curran to A Samad, FOUR runs, short and pleading to be bashed!
+Ball 63 :  S Curran to A Samad, one run, back of a length outside off, jabbed away through the covers
+Ball 64 :  S Curran to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 65 :  S Curran to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 66 :  S Curran to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 67 :  S Curran to M Pandey, FOUR runs, short and pleading to be bashed!
+Ball 68 :  S Curran to M Pandey,Wide, Thats a wide ball from S Curran
+Ball 68 :  S Curran to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 69 :  S Curran to M Pandey, SIX ! runs, this is a gigantic blow!
+Ball 70 :  S Curran to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 70 balls (19 runs)
+     Sunrisers Hyderabad     121/4
+     RR: 17.29
+
+     A Samad     (21)8 [2x4 1x6]
+     M Pandey     (29)20 [2x4 1x6]
+     S Curran     10-4-19-0
+
+Ball 71 :  D Bravo to A Samad, one run, begins with a loopy overcook, drilled through the covers
+Ball 72 :  D Bravo to M Pandey, one run, begins with a loopy overcook, drilled through the covers
+Ball 73 :  D Bravo to A Samad, FOUR runs, short and pleading to be bashed!
+Ball 74 :  D Bravo to A Samad, OUT, This is really unlucky for the batsmen.
+
+     b. D Bravo     A Samad(26)11 [3x4 1x6]
+
+Ball 75 :  D Bravo to J Holder, two runs, The fielder dives and makes a half stop. Just two..
+Ball 76 :  D Bravo to J Holder, two runs, The fielder dives and makes a half stop. Just two..
+Ball 77 :  D Bravo to J Holder, one run, short of a length outside off, steered away down to third man
+Ball 78 :  D Bravo to M Pandey, FOUR runs, short and pleading to be bashed!
+Ball 79 :  D Bravo to M Pandey,Wide, Thats a wide ball from D Bravo
+Ball 79 :  D Bravo to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 80 :  D Bravo to J Holder, one run, begins with a loopy overcook, drilled through the covers
+
+     END of 80 balls (18 runs)
+     Sunrisers Hyderabad     139/5
+     RR: 17.38
+
+     J Holder     (6)4 [0x4 0x6]
+     M Pandey     (35)23 [3x4 1x6]
+     D Bravo     10-1-18-1
+
+Ball 81 :  S Thakur to J Holder, one run, begins with a loopy overcook, drilled through the covers
+Ball 82 :  S Thakur to M Pandey, one run, short of a length outside off, steered away down to third man
+Ball 83 :  S Thakur to J Holder, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 84 :  S Thakur to J Holder,Wide, Thats a wide ball from S Thakur
+Ball 84 :  S Thakur to J Holder,Wide, Thats a wide ball from S Thakur
+Ball 85 :  S Thakur to J Holder, one run, back of a length outside off, jabbed away through the covers
+Ball 86 :  S Thakur to M Pandey, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 87 :  S Thakur to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 88 :  S Thakur to M Pandey, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 89 :  S Thakur to M Pandey, two runs, The fielder dives and makes a half stop. Just two..
+Ball 90 :  S Thakur to M Pandey, OUT, This is really unlucky for the batsmen.
+
+     END of 90 balls (13 runs)
+     Sunrisers Hyderabad     152/6
+     RR: 16.89
+
+     M Pandey     (8)7 [3x4 2x6]
+     J Holder     (44)29 [0x4 0x6]
+     S Thakur     20-4-32-1
+
+
+     b. D Bravo     M Pandey(8)7 [3x4 2x6]
+
+Ball 91 :  D Bravo to R Khan, one run, short of a length outside off, steered away down to third man
+Ball 92 :  D Bravo to J Holder, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 93 :  D Bravo to J Holder, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 94 :  D Bravo to J Holder, two runs, The fielder dives and makes a half stop. Just two..
+Ball 95 :  D Bravo to J Holder, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 96 :  D Bravo to J Holder, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 97 :  D Bravo to J Holder, OUT, This is really unlucky for the batsmen.
+
+     b. D Bravo     J Holder(46)35 [0x4 0x6]
+
+Ball 98 :  D Bravo to B Kumar, dot , shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 99 :  D Bravo to B Kumar, FOUR runs, short and pleading to be bashed!
+Ball 100 :  D Bravo to B Kumar, one run, short of a length outside off, steered away down to third man
+
+     END of 100 balls (8 runs)
+     Sunrisers Hyderabad     160/7
+     RR: 16.00
+
+
+     End of innings (Balls 100)
+     Sunrisers Hyderabad     160/7  (RR: 16.00)
+     B Kumar     (5)3 [1x4 0x6]
+     R Khan     (1)1 [0x4 0x6]
+     D Bravo     20-7-26-2
+
+
+1st Innings Scoreboard
+
+Batsman       Bowler      Runs    Balls    4s    6s    SR
+------------  --------  ------  -------  ----  ----  ----
+J Bairstow    D Chahar      15       15     2     0   100
+D Warner      R Jadeja      36       18     4     2   200
+K Williamson  R Jadeja       0        1     0     0     0
+K Jadhav      M Ali         16        8     2     0   200
+A Samad       D Bravo       26       11     3     1   236
+M Pandey      D Bravo        8        7     3     2   114
+J Holder      D Bravo       46       35     0     0   131
+B Kumar       Not Out        5        3     1     0   166
+R Khan        Not Out        1        1     0     0   100
+
+Bowler      Balls    Dots    Runs    Wickets    Economy
+--------  -------  ------  ------  ---------  ---------
+M Ali          20       6      45          1          2
+S Curran       10       4      19          0          1
+D Bravo        20       7      26          2          1
+R Jadeja       10       4      15          2          1
+D Chahar       20       9      23          1          1
+S Thakur       20       4      32          1          1
+
+Chennai Super Kings need 161 runs in 100 balls at 1.61 run/s per ball.
+
+Chennai Super Kings -  ['F Duplesis', 'R Gaikwad', 'S Raina', 'M Ali', 'A Rayudu', 'MS Dhoni', 'S Curran', 'D Bravo', 'R Jadeja', 'D Chahar', 'S Thakur']
+Sunrisers Hyderabad -  ['A Samad', 'J Holder', 'R Khan', 'B Kumar', 'T Natarajan', 'S Sharma']
+
+%%%%%  Second Innings  %%%%%
+
+Ball 01 :  B Kumar to F Duplesis, one run, back of a length outside off, jabbed away through the covers
+Ball 02 :  B Kumar to R Gaikwad, one run, short of a length outside off, steered away down to third man
+Ball 03 :  B Kumar to F Duplesis, one run, short of a length outside off, steered away down to third man
+Ball 04 :  B Kumar to R Gaikwad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 05 :  B Kumar to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 06 :  B Kumar to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 07 :  B Kumar to R Gaikwad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 08 :  B Kumar to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 09 :  B Kumar to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 10 :  B Kumar to R Gaikwad, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+
+     END of 10 balls (25 runs)
+     Chennai Super Kings     25/0
+     RR: 25.00
+
+     F Duplesis     (2)2 [0x4 0x6]
+     R Gaikwad     (23)8 [4x4 1x6]
+     B Kumar     10-2-25-0
+
+Ball 11 :  S Sharma to F Duplesis, one run, short of a length outside off, steered away down to third man
+Ball 12 :  S Sharma to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 13 :  S Sharma to R Gaikwad, three runs, a fine tickle on the glance 
+Ball 14 :  S Sharma to F Duplesis, one run, short of a length outside off, steered away down to third man
+Ball 15 :  S Sharma to R Gaikwad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 16 :  S Sharma to R Gaikwad, one run, short of a length outside off, steered away down to third man
+Ball 17 :  S Sharma to F Duplesis, one run, begins with a loopy overcook, drilled through the covers
+Ball 18 :  S Sharma to R Gaikwad, one run, back of a length outside off, jabbed away through the covers
+Ball 19 :  S Sharma to F Duplesis, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 20 :  S Sharma to F Duplesis, three runs, a fine tickle on the glance 
+
+     END of 20 balls (15 runs)
+     Chennai Super Kings     40/0
+     RR: 20.00
+
+     R Gaikwad     (8)7 [0x4 0x6]
+     F Duplesis     (32)13 [5x4 1x6]
+     S Sharma     10-2-15-0
+
+Ball 21 :  T Natarajan to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 22 :  T Natarajan to R Gaikwad, one run, short of a length outside off, steered away down to third man
+Ball 23 :  T Natarajan to F Duplesis, Stumped, This is really unlucky for the batsmen.
+
+     b. T Natarajan     F Duplesis(32)14 [5x4 1x6]
+
+Ball 24 :  T Natarajan to S Raina,Wide, Thats a wide ball from T Natarajan
+Ball 24 :  T Natarajan to S Raina, one run, back of a length outside off, jabbed away through the covers
+Ball 25 :  T Natarajan to R Gaikwad, one run, short of a length outside off, steered away down to third man
+Ball 26 :  T Natarajan to S Raina, one run, begins with a loopy overcook, drilled through the covers
+Ball 27 :  T Natarajan to R Gaikwad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 28 :  T Natarajan to R Gaikwad, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 29 :  T Natarajan to R Gaikwad,Wide, Thats a wide ball from T Natarajan
+Ball 29 :  T Natarajan to R Gaikwad, one run, short of a length outside off, steered away down to third man
+Ball 30 :  T Natarajan to S Raina, FOUR runs, short and pleading to be bashed!
+
+     END of 30 balls (15 runs)
+     Chennai Super Kings     55/1
+     RR: 18.33
+
+     R Gaikwad     (15)13 [1x4 0x6]
+     S Raina     (6)3 [1x4 0x6]
+     T Natarajan     10-3-15-1
+
+Ball 31 :  R Khan to R Gaikwad, two runs, The fielder dives and makes a half stop. Just two..
+Ball 32 :  R Khan to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 33 :  R Khan to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 34 :  R Khan to R Gaikwad, FOUR runs, short and pleading to be bashed!
+Ball 35 :  R Khan to R Gaikwad, two runs, The fielder dives and makes a half stop. Just two..
+Ball 36 :  R Khan to R Gaikwad, Bowled, This is really unlucky for the batsmen.
+
+     b. R Khan     R Gaikwad(31)19 [4x4 0x6]
+
+Ball 37 :  R Khan to M Ali, one run, begins with a loopy overcook, drilled through the covers
+Ball 38 :  R Khan to S Raina, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 39 :  R Khan to S Raina,Wide, Thats a wide ball from R Khan
+Ball 39 :  R Khan to S Raina, FOUR runs, short and pleading to be bashed!
+Ball 40 :  R Khan to S Raina,Wide, Thats a wide ball from R Khan
+Ball 40 :  R Khan to S Raina, one run, begins with a loopy overcook, drilled through the covers
+
+     END of 40 balls (24 runs)
+     Chennai Super Kings     79/2
+     RR: 19.75
+
+     S Raina     (11)6 [2x4 0x6]
+     M Ali     (1)1 [0x4 0x6]
+     R Khan     10-2-24-1
+
+Ball 41 :  A Samad to S Raina, one run, begins with a loopy overcook, drilled through the covers
+Ball 42 :  A Samad to M Ali, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 43 :  A Samad to M Ali, two runs, The fielder dives and makes a half stop. Just two..
+Ball 44 :  A Samad to M Ali, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 45 :  A Samad to M Ali, FOUR runs, short and pleading to be bashed!
+Ball 46 :  A Samad to M Ali, Bowled, This is really unlucky for the batsmen.
+
+     b. A Samad     M Ali(7)6 [1x4 0x6]
+
+Ball 47 :  A Samad to A Rayudu, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 48 :  A Samad to A Rayudu, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 49 :  A Samad to A Rayudu, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 50 :  A Samad to A Rayudu, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+
+     END of 50 balls (13 runs)
+     Chennai Super Kings     92/3
+     RR: 18.40
+
+     S Raina     (12)7 [2x4 0x6]
+     A Rayudu     (6)4 [0x4 1x6]
+     A Samad     10-6-13-1
+
+Ball 51 :  J Holder to S Raina, one run, back of a length outside off, jabbed away through the covers
+Ball 52 :  J Holder to A Rayudu, two runs, The fielder dives and makes a half stop. Just two..
+Ball 53 :  J Holder to A Rayudu, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 54 :  J Holder to A Rayudu, FOUR runs, short and pleading to be bashed!
+Ball 55 :  J Holder to A Rayudu, one run, back of a length outside off, jabbed away through the covers
+Ball 56 :  J Holder to S Raina, Caught, This is really unlucky for the batsmen.
+
+     b. J Holder     S Raina(13)9 [2x4 0x6]
+
+Ball 57 :  J Holder to MS Dhoni, SIX ! runs, this is a gigantic blow!
+Ball 58 :  J Holder to MS Dhoni, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 59 :  J Holder to MS Dhoni, SIX ! runs, Waltzes down the wicket, meets the ball on a length and swats the bowler into the wide long-on stands. Clean as a whistle
+Ball 60 :  J Holder to MS Dhoni, two runs, The fielder dives and makes a half stop. Just two..
+
+     END of 60 balls (22 runs)
+     Chennai Super Kings     114/4
+     RR: 19.00
+
+     A Rayudu     (13)8 [1x4 1x6]
+     MS Dhoni     (14)4 [0x4 2x6]
+     J Holder     10-3-22-1
+
+Ball 61 :  T Natarajan to A Rayudu, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 62 :  T Natarajan to A Rayudu, three runs, a fine tickle on the glance 
+Ball 63 :  T Natarajan to MS Dhoni, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 64 :  T Natarajan to MS Dhoni, three runs, a fine tickle on the glance 
+Ball 65 :  T Natarajan to A Rayudu, Bowled, This is really unlucky for the batsmen.
+
+     b. T Natarajan     A Rayudu(16)11 [1x4 1x6]
+
+Ball 66 :  T Natarajan to S Curran, one run, short of a length outside off, steered away down to third man
+Ball 67 :  T Natarajan to MS Dhoni, FOUR runs, short and pleading to be bashed!
+Ball 68 :  T Natarajan to MS Dhoni, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 69 :  T Natarajan to MS Dhoni, two runs, The fielder dives and makes a half stop. Just two..
+Ball 70 :  T Natarajan to MS Dhoni, one run, back of a length outside off, jabbed away through the covers
+
+     END of 70 balls (14 runs)
+     Chennai Super Kings     128/5
+     RR: 18.29
+
+     MS Dhoni     (24)10 [1x4 2x6]
+     S Curran     (1)1 [0x4 0x6]
+     T Natarajan     20-7-29-2
+
+Ball 71 :  R Khan to MS Dhoni, one run, short of a length outside off, steered away down to third man
+Ball 72 :  R Khan to S Curran, one run, begins with a loopy overcook, drilled through the covers
+Ball 73 :  R Khan to MS Dhoni, SIX ! runs, this is a gigantic blow!
+Ball 74 :  R Khan to MS Dhoni, one run, begins with a loopy overcook, drilled through the covers
+Ball 75 :  R Khan to S Curran, one run, begins with a loopy overcook, drilled through the covers
+Ball 76 :  R Khan to MS Dhoni, one run, back of a length outside off, jabbed away through the covers
+Ball 77 :  R Khan to S Curran, one run, back of a length outside off, jabbed away through the covers
+Ball 78 :  R Khan to MS Dhoni, two runs, The fielder dives and makes a half stop. Just two..
+Ball 79 :  R Khan to MS Dhoni, one run, short of a length outside off, steered away down to third man
+Ball 80 :  R Khan to S Curran, one run, back of a length outside off, jabbed away through the covers
+
+     END of 80 balls (16 runs)
+     Chennai Super Kings     144/5
+     RR: 18.00
+
+     S Curran     (5)5 [0x4 0x6]
+     MS Dhoni     (36)16 [1x4 3x6]
+     R Khan     20-2-40-1
+
+Ball 81 :  B Kumar to S Curran, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 82 :  B Kumar to S Curran, Stumped, This is really unlucky for the batsmen.
+
+     b. B Kumar     S Curran(5)7 [0x4 0x6]
+
+Ball 83 :  B Kumar to D Bravo,Wide, Thats a wide ball from B Kumar
+Ball 83 :  B Kumar to D Bravo,Wide, Thats a wide ball from B Kumar
+Ball 84 :  B Kumar to D Bravo, FOUR runs, short and pleading to be bashed!
+Ball 85 :  B Kumar to D Bravo, one run, begins with a loopy overcook, drilled through the covers
+Ball 86 :  B Kumar to MS Dhoni, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 87 :  B Kumar to MS Dhoni, dot ball, shortens his length outside off, batsman presses across and defends it to the off-side
+Ball 88 :  B Kumar to MS Dhoni, one run, begins with a loopy overcook, drilled through the covers
+Ball 89 :  B Kumar to D Bravo, one run, begins with a loopy overcook, drilled through the covers
+Ball 90 :  B Kumar to MS Dhoni, FOUR runs, short and pleading to be bashed!
+
+     END of 90 balls (13 runs)
+     Chennai Super Kings     157/6
+     RR: 17.44
+
+     D Bravo     (6)3 [1x4 0x6]
+     MS Dhoni     (41)20 [2x4 3x6]
+     B Kumar     20-6-38-1
+
+Ball 91 :  A Samad to D Bravo, FOUR runs, short and pleading to be bashed!
+
+     b. A Samad     D Bravo(6)3 [1x4 0x6]
+     MS Dhoni     (41)20 [2x4 3x6]
+     A Samad     11-6-17-1
+
+
+
+     End of innings (Balls 91)
+     Chennai Super Kings     161/6  (RR: 17.69)
+
+     Chennai Super Kings win by 4 wickets.
+
+2nd Innings Scoreboard
+Batsman     Bowler         Runs    Balls    4s    6s    SR
+----------  -----------  ------  -------  ----  ----  ----
+F Duplesis  T Natarajan      32       14     5     1   228
+R Gaikwad   R Khan           31       19     4     0   163
+M Ali       A Samad           7        6     1     0   116
+S Raina     J Holder         13        9     2     0   144
+A Rayudu    T Natarajan      16       11     1     1   145
+S Curran    B Kumar           5        7     0     0    71
+D Bravo     Not Out           6        3     1     0   200
+MS Dhoni    Not Out          41       20     2     3   205
+
+Bowler         Balls    Dots    Runs    Wickets    Economy
+-----------  -------  ------  ------  ---------  ---------
+A Samad           11       6      17          1          1
+J Holder          10       3      22          1          2
+R Khan            20       2      40          1          2
+B Kumar           20       6      38          1          1
+T Natarajan       20       7      29          2          1
+S Sharma          10       2      15          0          1

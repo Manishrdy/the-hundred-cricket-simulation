@@ -1,0 +1,12 @@
+﻿player,role,type,0s,1s,2s,3s,4s,6s,out,wide,total
+N Rana,Batsman,left,15,20,10,10,15,15,7,5,88
+S Gill,Batsman,right,20,20,10,2,10,7,7,5,72
+R Tripathi,Batsman,right,15,20,10,2,10,7,5,5,67
+E Morgan,Batsman,right,20,20,10,2,10,7,5,5,74
+SA Hasan,Bowler,spin,15,20,20,2,10,7,5,5,79
+D Karthik,Keeper,right,25,20,7,1,7,15,4,5,80
+A Russel,Bowler,fast,15,25,10,1,10,7,10,5,78
+P Cummins,Bowler,fast,15,25,10,1,10,7,10,5,78
+H Singh,Bowler,spin,30,25,10,1,10,7,10,5,93
+P Krishna,Bowler,fast,30,25,10,1,5,3,10,5,89
+V Chakravarthy,Bowler,spin,30,25,10,1,5,3,10,5,89
